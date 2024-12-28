@@ -25,12 +25,12 @@ Using selfbots violates [Discord's Terms of Service](https://discord.com/terms).
 1. Set up your configuration in `config.json`:
    ```json
    {
-      "TOKEN": "YOUR TOKEN HERE",
-      "TITLE": "Hi, Celestia!",
-      "FOOTER": "socials.lat",
-      "DEFAULT_STATUS": "Celestia | Lua, or C++?",
-      "PREFIX": "!",
-      "WEBHOOK_URL": "WEBHOOK URL FOR CELESTIA LOGGING",
-      "_notes": "hai celestia user this config updates after 5 seconds",
-      "DEFAULT_EMOJI": "💫"
+    "TOKEN": "YOUR TOKEN HERE",
+    "TITLE": "Hi, Celestia!",
+    "FOOTER": "socials.lat",
+    "DEFAULT_STATUS": "Celestia | Lua, or C++?",
+    "PREFIX": "!",
+    "WEBHOOK_URL": "WEBHOOK FOR LOGGING",
+    "_notes": "hai celestia user this config updates after 5 seconds",
+    "DEFAULT_EMOJI": "💫"
    }
